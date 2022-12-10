@@ -20,7 +20,7 @@
     "compression": "^1.7.4",
     "cross-env": "^5.2.0",
     "es6-promise": "^4.2.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.19.1",
     "lru-cache": "^5.1.1",
     "serve-favicon": "^2.5.0",
